@@ -95,29 +95,3 @@ function checker() {
         next();
     }
 }
-
-
-
-
-
-
-/*
-    var legend = document.createElement('legend');
-    legend.innerHTML = question.q1;
-    var form1 = document.getElementById('form1');
-    form1.appendChild(legend);
-
-    const que = {
-        q1 : "what is my name",
-        a1 : "eustace",
-        a2 : "fumnanya",
-        a3 : "mbanefo",
-        a4 : "menez"
-    };
-
-
-document.getElementById('ans0').innerHTML = 'Fumi';
-document.getElementById('ans2').value = 'I changed value';
-let num = document.getElementById('myform').elements.item(1).value;
-document.getElementById('show').innerHTML = num;
-*/
